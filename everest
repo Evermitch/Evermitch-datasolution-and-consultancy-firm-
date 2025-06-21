@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evermitch Data Solution & Consultancy</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="logo.png">
+</head>
+<body>
+    <header>
+        <img src="LOGO.jpg" alt="Evermitch Logo" class="logo">
+        <h1>Evermitch Data Solution & Consultancy</h1>
+        <p class="tagline">Empowering Your Data, Empowering Your Business</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+<section id="Home">
+            <h2>Welcome to Evermitch datasolution and consultancy firm</h2>
+            <div class="Home-container">
+                <div class="Home-card">
+                    <p>Evermitch Datasolution and Consultancy Firm is a dynamic consultancy committed to empowering businesses, students, and individuals with tailored solutions for informed decision-making and professional growth. We provide expert data collection and analysis to deliver actionable insights, enabling businesses to optimize strategies and achieve measurable outcomes. </p>
+                </div>
+                <div class="Home-card">   
+                </div>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p> We provide expert data collection and analysis to deliver actionable insights, enabling businesses to optimize strategies and achieve measurable outcomes. Our services include creating precise maps and customized building plans, ensuring alignment with clients’ specifications and regulatory requirements, as well as professional graphic design of flyers, logos, and branding materials to enhance visual impact and market presence. For students, we offer specialized assistance with report writing, editing, and project work, delivering high-quality outputs, alongside comprehensive training sessions to equip them with practical, industry-relevant skills for the job market. We also provide personalized guidance on selecting suitable tertiary-level courses, aligning academic choices with career aspirations and market demands, and step-by-step consultancy on the process of building a house after acquiring land, covering permits, design, budgeting, and contractor management. Additionally, our strategic business consulting enhances operations, efficiency, and growth, while our AI consulting integrates artificial intelligence to streamline processes and foster innovation. We further offer software consulting to guide clients in selecting, implementing, and optimizing software to boost productivity. With consultancy expertise underpinning all services, Evermitch delivers holistic, high-quality support tailored to each client’s unique goals, fostering excellence and innovation to ensure success in competitive environments.</p>
+            <h2>Meet the team</h2>
+            <div class="about-card">
+                    <img src="ABOUT 2.jpg" alt="Emmanuel Kyei (Everest)">
+                    <h3>Emmanuel Kyei (Everest), Founder, C.E.O.</h3>
+                    <p>Emmanuel Kyei (Everest) is a visionary entrepreneur and innovator, serving as the Founder and CEO of EVERMITCH, with a strong academic background in Development Planning from KNUST. He is a certified Microsoft Excel, SPSS, and AI expert. Emmanuel is an inspiring figure in the business and technology communities with his unique blend of academic achievements, technical expertise, and entrepreneurial spirit.</p>
+                </div>
+            <div class="about-container">
+                <div class="about-card">
+                    <img src="ABOUT 1.jpg" alt="Mitchell Osborn Okyere">
+                    <h3>Mitchell Osborn Okyere, Co-founder, Analyst</h3>
+                    <p>Mitchell Osborn Okyere is the Co-Founder and Analyst of EVERMITCH Data Solutions, bringing a strong academic background in Development Planning from KNUST and expertise in spatial analysis, ArcGIS, and Adobe Photoshop. At EVERMITCH, he plays a pivotal role in driving data-driven solutions, collaborating with clients to identify challenges and developing tailored analytics to address their needs.</p>
+                </div> 
+            </div>
+        </section>
+        <section id="services">
+            <h2>Our Services</h2>
+            <ul class="services-list">
+                <li>Map Making</li>
+                <li>Building Plans</li>
+                <li>Comprehensive Data Collection and Analysis</li>
+                <li>Website Development for Businesses</li>
+                <li>Flyers and Logo Design</li>
+                <li>Report Writing and Editing</li>
+                <li>Assisting Students with Thesis and Project Works</li>
+                <li>Consultancy Services</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact & Social Media</h2>
+            <p>Located on the KNUST Campus, Kumasi, Ghana.</p>
+            <div class="social-links">
+                <a href="https://www.youtube.com/@evermitchdatasolution" target="_blank" title="YouTube"><img src="YouTube.png" alt="YouTube"></a>
+                <a href="https://www.facebook.com/profile.php?id=100070289995393&mibextid=LQQJ4d" target="_blank" title="Facebook"><img src="Facebook.png" alt="Facebook"></a>
+                <a href="https://wa.me/+233594932024" target="_blank" title="WhatsApp"><img src="WhatsApp .png" alt="WhatsApp"></a>
+                <a href="https://x.com/kyeiemm82966165" target="_blank" title="Twitter/X"><img src="Twitter.png" alt="Twitter/X"></a>
+                <a href="https://www.instagram.com/emmanuel_kyei_everest_" target="_blank" title="Instagram"><img src="instagram.png" alt="Instagram"></a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Evermitch Data Solution & Consultancy. All rights reserved.</p>
+    </footer>
+</body>
+</html> 
